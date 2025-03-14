@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="CountNClear",  # PyPI’da paket nomi (pastki chiziq ishlatiladi)
+    name="countnclear",  # PyPI’da paket nomi (pastki chiziq ishlatiladi)
     version="1.0.0",  # Paket versiyasi
     packages=find_packages(),  # Barcha paketlarni avtomatik topish
     description="A package to count terminal executions and clear the terminal after a specified limit",
